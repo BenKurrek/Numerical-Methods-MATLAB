@@ -13,7 +13,7 @@ Hub for several of the topics covered in MTE 204 - Numerical Methods coded in MA
 
 ## Notes:
 
-These have been coded for my personal learning and understanding. You are free to use any and all material in this repository but please note that some of the code might not be optimized. If you find any bugs or errors please create a new issue. 
+These have been coded for my personal learning and understanding. DO NOT USE THESE FOR ANYTHING THAT IS NOT ALLOWED ie - cheating etc... You are free to use any and all material in this repository but please note that some of the code might not be optimized. If you find any bugs or errors please create a new issue. 
 
 
 # Detailed Guide
