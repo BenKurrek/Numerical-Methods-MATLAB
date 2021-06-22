@@ -49,7 +49,9 @@ This implements the fixed point iteration method.
 Keep in mind that the algorithm will stop EITHER when the number of iterators has been reached or the desired error has been reached. 
 
 **Output:**
-- The output is shown in the console and it follows the format of: `iterator, old x, new x, current error`
+- The output is shown in the console and it follows the format of: 
+`iterator, old x, new x, current error`
+
 ![Alt text](/readme_images/fixed_point_iteration_output.png "Console Output for Fixed Point Iteration")
 
 
@@ -80,7 +82,9 @@ This implements the bisection method. In addition, it calculates the number of i
 Keep in mind that the algorithm will stop EITHER when the number of iterators has been reached or the desired error has been reached. 
 
 **Output:**
-- The output is shown in the console. The first value is the minimum number of iterations required to reach the specified desired error. The output then follows the following form: `Iterator, Lower X, Upper X, New Midpoint X, F(lower X), F(upper X), F(New Midpoint X), current error`
+- The output is shown in the console. The first value is the minimum number of iterations required to reach the specified desired error. The output then follows the following form: 
+`Iterator, Lower X, Upper X, New Midpoint X, F(lower X), F(upper X), F(New Midpoint X), current error`
+
 ![Alt text](/readme_images/bisection_method_output.png "Console Output for Bisection Method")
 
 ## Secant Method
@@ -97,10 +101,12 @@ This implements the secant method
 Keep in mind that the algorithm will stop EITHER when the number of iterators has been reached or the desired error has been reached. 
 
 **Output:**
-- The output is shown in the console and it follows the format of: `iterator, old x, current x, f(old x), f(current x), new x, current error` 
+- The output is shown in the console and it follows the format of: 
+`iterator, old x, current x, f(old x), f(current x), new x, current error` 
+
 ![Alt text](/readme_images/secant_method_output.png "Console Output for Secant Method")
 
-## Secant Method
+## Polynomial Roots
 This will find the roots of an nth order polynomial.
 
 **File Name: `/PolynomialRoots.m`**
