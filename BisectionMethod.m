@@ -7,7 +7,7 @@ x_upp = 1;
 num_iter = 10; 
 desired_err = 1*10^-5; 
 
-num_iters_for_desired_err = log10(abs(x_low - x_upp) / desired_err) / log10(2); 
+num_iters_for_desired_err = log10(abs(x_low - x_upp) / (desired_err/100)) / log10(2); 
 disp(round(num_iters_for_desired_err, 3));
 
 x_mid_old = (x_low + x_upp) / 2;
