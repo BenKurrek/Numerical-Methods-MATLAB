@@ -31,7 +31,7 @@ Make sure that the data set sizes for x and y MATCH!!
 
 **Output:**
 - The coefficients of the polynomial are outputted in the console as shown below: 
-![Alt text](/readme_images/nth_order_output.png "Console Output of Coefficients For Polynomial")
+![Alt text](/readme_images/nth_order_output_fixed.png "Console Output of Coefficients For Polynomial")
 - This will output the graph of the points as well as the curve that has been fitted as shown below: 
 ![Alt text](/readme_images/nth_order_graph.png "Graph of 3rd Order Polynomial Fit")
 
